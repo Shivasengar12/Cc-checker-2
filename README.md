@@ -40,3 +40,4 @@ get API_ID & API_HASH from https://my.telegram.org/
 DONE + i will update and fix all errors.
 By @Roldexverse
 
+https://heroku.com/deploy?template=https://github.com/Shivasengar12/Cc-checker-2
